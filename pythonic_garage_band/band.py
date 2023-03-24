@@ -19,7 +19,7 @@ class Band(Musician):
         return f'This band is {self.name} and it consists of {self.members}'
 
     def __repr__(self):
-        return f'{__class__.__name__}. '
+        return f'{__class__.__name__} instance. Name = {self.name}, Band Members = {self.members}'
 
     def play_solos(self):
         solos = []
