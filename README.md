@@ -1,4 +1,4 @@
-# LAB - Class xx
+# LAB - Class 04
 
 ## Project: Garage Band With OOP
 
